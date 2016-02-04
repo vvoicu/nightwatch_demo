@@ -1,0 +1,6 @@
+http://tanmaysarkar.com/nightwatch-setup-in-windows/
+http://selenium-release.storage.googleapis.com/index.html
+
+
+#Run command 
+node nightwatch.js -t tests\GoogleTest.js

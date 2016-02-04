@@ -1,0 +1,37 @@
+22:09:31.793 INFO - Launching a standalone Selenium Server
+22:09:31.840 INFO - Java: Oracle Corporation 24.79-b02
+22:09:31.840 INFO - OS: Windows 8.1 6.3 amd64
+22:09:31.840 INFO - v2.50.1, with Core v2.50.1. Built from revision d7fc91b
+22:09:31.871 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+22:09:31.871 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+22:09:31.887 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{platform=MAC, browserName=safari, version=}] does not match the current platform WIN8_1
+22:09:31.950 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+22:09:31.950 INFO - Selenium Server is up and running
+22:09:32.168 INFO - Executing: [new session: Capabilities [{platform=ANY, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, name=Google Test3}]])
+22:09:32.184 INFO - Creating a new session for Capabilities [{platform=ANY, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, name=Google Test3}]
+22:09:34.396 INFO - Done: [new session: Capabilities [{platform=ANY, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, name=Google Test3}]]
+22:09:34.406 INFO - Executing: [get: http://www.google.com])
+22:09:35.984 INFO - Done: [get: http://www.google.com]
+22:09:36.305 INFO - Executing: [find elements: By.cssSelector: body])
+22:09:36.451 INFO - Done: [find elements: By.cssSelector: body]
+22:09:36.773 INFO - Executing: [is displayed: 0 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: body]])
+22:09:36.905 INFO - Done: [is displayed: 0 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: body]]
+22:09:36.991 INFO - Executing: [find element: By.cssSelector: input[type=text]])
+22:09:37.098 INFO - Done: [find element: By.cssSelector: input[type=text]]
+22:09:37.180 INFO - Executing: [send keys: 1 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: input[type=text]], [n, i, g, h, t, w, a, t, c, h]])
+22:09:37.385 INFO - Done: [send keys: 1 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: input[type=text]], [n, i, g, h, t, w, a, t, c, h]]
+22:09:37.465 INFO - Executing: [find elements: By.cssSelector: button[name=btnG]])
+22:09:37.631 INFO - Done: [find elements: By.cssSelector: button[name=btnG]]
+22:09:37.641 INFO - Executing: [is displayed: 2 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: button[name=btnG]]])
+22:09:37.792 INFO - Done: [is displayed: 2 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: button[name=btnG]]]
+22:09:37.910 INFO - Executing: [find element: By.cssSelector: button[name=btnG]])
+22:09:37.927 INFO - Done: [find element: By.cssSelector: button[name=btnG]]
+22:09:37.934 INFO - Executing: [click: 2 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: button[name=btnG]]])
+22:09:38.102 INFO - Done: [click: 2 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: button[name=btnG]]]
+22:09:39.196 INFO - Executing: [find element: By.cssSelector: #main])
+22:09:39.249 INFO - Done: [find element: By.cssSelector: #main]
+22:09:39.253 INFO - Executing: [get text: 3 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: #main]])
+22:09:40.438 INFO - Done: [get text: 3 [[FirefoxDriver: firefox on WINDOWS (1a1d2005-4afe-4abb-9b13-2fac2f183a7e)] -> css selector: #main]]
+22:09:40.516 INFO - Executing: [delete session: 06f774d5-cd4f-48e2-afcb-3560f85e0b8f])
+22:09:40.893 INFO - Done: [delete session: 06f774d5-cd4f-48e2-afcb-3560f85e0b8f]
